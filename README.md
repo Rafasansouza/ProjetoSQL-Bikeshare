@@ -2,7 +2,7 @@
 
 ## 🌟 Visão Geral
 
-Este projeto foca na análise do dataset "2012Q2-capitalbikeshare-tripdata.csv", que contém informações sobre aluguéis de bicicletas em Washington, D.C. O objetivo é extrair insights sobre o uso das bicicletas, considerando diferentes parâmetros como tipo de membro, estações de entrega e períodos de tempo. Os dados foram extraídos do site da [Capital Bikeshare](https://capitalbikeshare.com/).
+Este projeto foca na análise do datasets, que contém informações sobre aluguéis de bicicletas em Washington, D.C. O objetivo é extrair insights sobre o uso das bicicletas, considerando diferentes parâmetros como tipo de membro, estações de entrega e períodos de tempo. Os dados foram extraídos do site da [Capital Bikeshare](https://capitalbikeshare.com/).
 
 ## 📊 Perguntas a serem Respondidas
 
@@ -37,7 +37,7 @@ Neste projeto, vamos explorar as seguintes perguntas:
 ## 🗂️ Como Começar
 
 1. **Download do Dataset**: 
-   - Obtenha o arquivo "2012Q2-capitalbikeshare-tripdata.csv" do site da [Capital Bikeshare](https://s3.amazonaws.com/capitalbikeshare-data/index.html), são dados de livre acesso, basta escolher o ano para análise no meu caso escolhi o ano 2012Q2.
+   - Obtenha os arquivos do site da [Capital Bikeshare](https://s3.amazonaws.com/capitalbikeshare-data/index.html), são dados de livre acesso, basta escolher o ano para análise no meu caso escolhi o ano de 2012.
 
 2. **Carregamento dos Dados**: 
    - Carregue o arquivo em uma nova tabela no seu banco de dados de escolha.
